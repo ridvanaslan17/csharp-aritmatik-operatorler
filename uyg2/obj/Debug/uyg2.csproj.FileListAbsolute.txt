@@ -1,0 +1,10 @@
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.csproj.AssemblyReference.cache
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.Form1.resources
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.Properties.Resources.resources
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.csproj.GenerateResource.cache
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.csproj.CoreCompileInputs.cache
+C:\Users\LAB-5\source\repos\uyg2\uyg2\bin\Debug\uyg2.exe.config
+C:\Users\LAB-5\source\repos\uyg2\uyg2\bin\Debug\uyg2.exe
+C:\Users\LAB-5\source\repos\uyg2\uyg2\bin\Debug\uyg2.pdb
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.exe
+C:\Users\LAB-5\source\repos\uyg2\uyg2\obj\Debug\uyg2.pdb
